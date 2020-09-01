@@ -13,3 +13,5 @@ here are the links in case:
 4. My Neighbour Totoro - https://editor.p5js.org/shardaidawk/sketches/6PdT1uyx9
 
 5. Fire - https://editor.p5js.org/shardaidawk/sketches/S9-9oR76O
+
+link to blog - https://drive.google.com/file/d/16Qu4ZwX9PJEp3r-P2be4Vn3sbq0e9IjH/view?usp=sharing
